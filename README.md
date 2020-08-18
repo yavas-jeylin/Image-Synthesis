@@ -1,1 +1,1 @@
-# Image-Synthesis
+# Image-Style-Synthesis
